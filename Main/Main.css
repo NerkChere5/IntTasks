@@ -1,0 +1,11 @@
+:root {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  display: grid;
+}
